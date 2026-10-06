@@ -1,5 +1,3 @@
-# Coderhouse — Emmanuel Moreno
-
 # 🤖 Proyecto Final — IA Automation
 
 ## Ecosistema de Automatización IA
