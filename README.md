@@ -23,21 +23,6 @@ El sistema también contempla el **manejo de errores**, registrando las fallas p
 
 ---
 
-🔗 Accesos directos
-🗄️ Tabla de control — Airtable
-
-👉 Acceder a la Tabla de Control
-
-Base utilizada para la gestión de tickets, estados, resultados del procesamiento, aprobaciones y registro de errores.
-
-📊 Dashboard — Airtable
-
-👉 Acceder al Dashboard de Control
-
-Dashboard con los principales indicadores del sistema, incluyendo tickets procesados, respondidos, errores, prioridades y estados.
-
----
-
 ## 📋 Contenido de la entrega
 
 * 📐 **Arquitectura del sistema**
