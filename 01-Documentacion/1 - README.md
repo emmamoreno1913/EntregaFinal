@@ -1,25 +1,53 @@
-Coderhouse - Emmanuel Moreno
+# Coderhouse — Emmanuel Moreno
 
-Proyecto Final IA Automation
-Ecosistema de Automatización IA
+# 🤖 Proyecto Final — IA Automation
 
-Sistema de automatización inteligente para la gestión y clasificación de tickets de soporte técnico.
-Tecnologías utilizadas
-- n8n
-- Airtable
-- Groq
-- Slack
-- Gmail
+## Ecosistema de Automatización IA
 
-Flujo principal
-Ticket → Procesamiento con IA → Clasificación → Validación → Aprobación humana → Respuesta al cliente
+Sistema de automatización inteligente para la **gestión, clasificación y resolución de tickets de soporte técnico**, integrando Inteligencia Artificial, automatización de procesos, base de datos, comunicación interna y respuesta al cliente.
 
-Contenido de la entrega
-- Arquitectura del sistema
-- Documentación de la base de datos
-- Matriz de decisiones y costos
-- Seguridad y resiliencia
-- Dashboard de control
-- Workflow de n8n
-- Evidencias
-- Video de demostración (enlaces)
+---
+
+## 🛠️ Tecnologías utilizadas
+
+* **n8n** — Orquestación y automatización del flujo
+* **Airtable** — Gestión de datos, estados y trazabilidad
+* **Groq** — Procesamiento mediante Inteligencia Artificial
+* **Slack** — Comunicación interna y aprobación humana (HITL)
+* **Gmail** — Comunicación y respuesta al cliente
+
+---
+
+## 🔄 Flujo principal
+
+**Ticket → Procesamiento con IA → Clasificación → Validación → Aprobación humana → Respuesta al cliente**
+El sistema también contempla el **manejo de errores**, registrando las fallas para mantener la trazabilidad y facilitar su seguimiento.
+
+## 📋 Contenido de la entrega
+
+* 📐 **Arquitectura del sistema**
+* 🗄️ **Documentación de la base de datos**
+* 💰 **Matriz de decisiones y costos**
+* 🛡️ **Seguridad y resiliencia**
+* 📊 **Dashboard de control**
+* ⚙️ **Workflow de n8n**
+* 🖼️ **Evidencias del funcionamiento**
+* 🎥 **Videos de demostración**
+
+
+## 🎥 Videos de demostración
+
+### ▶️ Circuito completo
+[**Ver demostración del circuito completo**](https://drive.google.com/file/d/1akGt3KdEOOiPFcP6xAygKYYOE4iKOGJI/view?usp=sharing)
+
+### ⚠️ Circuito con error de validación
+[**Ver demostración del circuito con error de validación**](https://drive.google.com/file/d/1ao_LOEAu28mRQ5iVk_7asK6K0O39kbhE/view?usp=sharing)
+
+---
+
+## 👤 Autor
+
+**Emmanuel Moreno**
+
+Proyecto Final — Coderhouse
+**IA Automation**
