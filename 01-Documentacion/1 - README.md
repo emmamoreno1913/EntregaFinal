@@ -1,3 +1,5 @@
+Entrega final - Emmanuel Moreno
+
 Ecosistema de Automatización IA Autónomo para Negocios
 Proyecto Final – Coderhouse
 
@@ -20,4 +22,4 @@ Contenido de la entrega
 - Dashboard de control
 - Workflow de n8n
 - Evidencias
-- Video de demostración
+- Video de demostración (enlaces)
