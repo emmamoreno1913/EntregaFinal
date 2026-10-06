@@ -1,7 +1,7 @@
-Entrega final - Emmanuel Moreno
+Coderhouse - Emmanuel Moreno
 
-Ecosistema de Automatización IA Autónomo para Negocios
-Proyecto Final – Coderhouse
+Proyecto Final IA Automation
+Ecosistema de Automatización IA
 
 Sistema de automatización inteligente para la gestión y clasificación de tickets de soporte técnico.
 Tecnologías utilizadas
